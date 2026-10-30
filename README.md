@@ -50,6 +50,12 @@
 
 ---
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="./stats.svg" height="180" alt="GitHub Stats" />
+  <img src="./top-langs.svg" height="180" alt="Top Languages" />
+</p>
 <h2 align="center">👀 Profile Visitors</h2>
 
 <p align="center">

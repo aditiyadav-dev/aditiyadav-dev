@@ -50,6 +50,13 @@
 
 ---
 
+<h2 align="center">👀 Profile Visitors</h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aditiyadav-dev&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
+---
+
 <h3 align="center">✨ Keep Learning. Keep Building. Keep Growing. ✨</h3>
 
 <p align="center">
